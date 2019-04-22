@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ONLY15</folder>
+	<filename>image_5.jpg</filename>
+	<path>G:\My Drive\7 SEPTIMO SEMESTRE\REDES NEURONALES\MINIPROY2\imagenesaumentadas\ONLY15\image_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>693</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JULES</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>332</ymin>
+			<xmax>494</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>VINCENT</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>1</ymin>
+			<xmax>480</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>
